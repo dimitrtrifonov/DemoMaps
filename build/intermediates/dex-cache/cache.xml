@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\pre-dexed\debug\classes-b59854dea9b3e525d23a6d5984e49c7787f56f68.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\pre-dexed\debug\classes-14d430080b3da0a6de619ed93dbeeddc52c0dc8b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\pre-dexed\debug\classes-9f53694e4a783f2f97c40b20a8ef106ff5f2eecd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\pre-dexed\debug\classes-ca7b2450d1d16f234315f6b1c125793b8faddc61.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\pre-dexed\debug\classes-d856fdbf03433dfc7bd352b71add9b345193c146.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-fcfb5b7cdca4f0a4357bebad1554890b251b7cb5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\pre-dexed\debug\classes-2fdd1d2d7dec1cee5faaacd82261bb3168d83906.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\pre-dexed\debug\classes-59dd0d3b571ead09408fec74453cf29c59c499fc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\pre-dexed\debug\classes-23f466cbc76036536d8f986f02ef11c34ca66bfb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\pre-dexed\debug\classes-b7834db8c567caea163eaf9c7da3c77d74253edb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\pre-dexed\debug\classes-ed5fe4b84b2a6728d788b0b442366426c63d2a6e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\pre-dexed\debug\classes-765ccd2e41f2fc6ee45a646cc1fd2b2050c007cb.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-753c954767ec5669f421f372d3c74e5692c3803b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\pre-dexed\debug\classes-bbee43bf0838bc7c6a1b40dd0dfc6e2e058b5dde.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\pre-dexed\debug\classes-04650dc1b633162bba4a70c1712dbee70b09c632.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\pre-dexed\debug\classes-2e4fe08ae4360cdcb6fd6a9a1740eb1e6301c517.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\pre-dexed\debug\classes-8adddfdbd8abdc2c8cece7aabe60f38de46193f4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\pre-dexed\debug\classes-b324db71bd5b53415548143d2e32fa62db57ec60.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\pre-dexed\debug\classes-d2a75871244905da163c7370f5f7978ae2423ec5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\pre-dexed\debug\classes-0633226bfa260d633b08f679fe31d2b36c244989.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\pre-dexed\debug\classes-59cacf6f048d3efe03e2db7ef72f6b5aa3eb13b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\pre-dexed\debug\classes-39894d35e0ae01173ad049d40ffcfa032eebea7f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\pre-dexed\debug\classes-394b2e0d44fffa96c876e11c19d8c9e74d3c937a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\pre-dexed\debug\classes-0cea2568ad903dcbafc4f992bfc1bf6f9e9545e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\pre-dexed\debug\classes-ce8f60fcd34a3a0d041950b3be7eefa0f6bceaf5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-d1284eefdb0e08e5f1c865f8b91afc566827e20f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="C:\Users\Dima\AndroidStudioProjects\DemoMaps\app\build\intermediates\pre-dexed\debug\classes-b2ddba2d5fea88ffbe70363fb8a1ee6de3aee151.jar" />
+    </item>
+
+</items>

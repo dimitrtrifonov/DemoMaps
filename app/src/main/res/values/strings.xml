@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Demo Maps</string>
+    <string name="title_activity_maps">Demo Maps</string>
+    <string name="title_activity_directions">DirectionsActivity</string>
+
+    <string name="ok">OK</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
